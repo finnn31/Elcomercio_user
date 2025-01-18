@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "985030918560",
+    "project_id": "perdaganganapp",
+    "storage_bucket": "perdaganganapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985030918560:android:01d888bf5c62e1817be4c5",
+        "android_client_info": {
+          "package_name": "com.example.elcomercio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRNSs18oXiDUugI3Plunc3LA2wGx9tG6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
